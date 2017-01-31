@@ -1,0 +1,30 @@
+{
+  "name": "konstrukt",
+  "version": "0.0.1",
+  "description": "Animate construction of SVG",
+  "main": "konstrukt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohfu/konstrukt.git"
+  },
+  "keywords": [
+    "SVG",
+    "d3",
+    "animation"
+  ],
+  "author": "Linus Miller <lohfu@lohfu.io> (https://lohfu.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lohfu/konstrukt/issues"
+  },
+  "homepage": "https://github.com/lohfu/konstrukt#readme",
+  "dependencies": {
+    "d3-geo": "^1.4.0",
+    "d3-selection": "^1.0.3",
+    "d3-transition": "^1.0.3",
+    "dollr": "^0.1.1"
+  }
+}
